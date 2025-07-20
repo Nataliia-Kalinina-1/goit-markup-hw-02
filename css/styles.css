@@ -73,7 +73,7 @@ a {
 }
 .solutions-button {
   font-family: "Roboto", sans-serif;
-  background: #4d5ae5;
+  background-color: #4d5ae5;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -81,8 +81,8 @@ a {
   cursor: pointer;
 }
 
-.solution-button:hover,
-.solution-button:focus {
+button:hover,
+button:focus {
   background-color: #404bbf;
 }
 
@@ -134,7 +134,7 @@ a {
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
